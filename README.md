@@ -1,4 +1,4 @@
-# RFC6241简体中文翻译
+# RFC6241（NETCONF协议）简体中文翻译
 A translation of [NETCONF Protocol (RFC6241)](https://tools.ietf.org/html/rfc6241) in Simplified Chinese.
 NETCONF协议的简体中文翻译。
 
